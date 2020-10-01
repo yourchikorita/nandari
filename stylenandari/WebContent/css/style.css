@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+
+html, body, div{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+#logo{
+	display:inline-block;
+}
+#auth{
+	display:inline-block;
+	float: right;
+    margin-right: 15%;
+    /* margin-top: 40px; */
+   
+}
+#auth {
+	font-size:10px;
+}
+
+#shop{
+	margin-left:100px;
+}
+#show{
+	margin-bottom:30px;
+}
+#showItem{
+	margin-left:100px;
+}
+#topLogin{
+	font-size:10px;
+}
+#showItem td {
+	width:400px;
+	
+}
+#content{
+	margin:20px;
+}
+.addingCart{
+	
+    width: 250px;
+}
+
+
+
